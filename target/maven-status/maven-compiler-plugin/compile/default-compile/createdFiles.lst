@@ -1,0 +1,4 @@
+com\example\book_api\BookController.class
+com\example\book_api\Book.class
+com\example\book_api\BookInput.class
+com\example\book_api\BookApiApplication.class
